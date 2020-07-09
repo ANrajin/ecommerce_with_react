@@ -1,0 +1,2 @@
+the package.jsom file of this folder will set the cart.js fie as the main
+file of this folder. define the file name, add it to the app .js file and start the project again
